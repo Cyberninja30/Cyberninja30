@@ -1,5 +1,6 @@
 ### 👨‍💻 Live Coding Vibes
 ![Coding](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
+
 ![Coding]([https://pin.it/7qCuyYkKL](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966))
 # 💫 About Me:
 I am passionate about cybersecurity with a focus on practical applications such as Capture The Flag (CTF) challenges, bug bounty hunting, and security research. With expertise in bash scripting, Python, and frameworks like Flask and Django, I build and test secure web applications, and explore vulnerabilities in real-world scenarios.As a Linux power user, I thrive in open-source environments, leveraging my knowledge of computer networking and system security to conduct security audits and penetration testing. My goal is to continuously enhance my skillset and contribute to the cybersecurity community by sharing insights, tools, and methodologies.
