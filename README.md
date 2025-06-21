@@ -1,10 +1,8 @@
-### 👨‍💻 Live Coding Vibes
 ![Coding](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966))
 
-# 💫 About Me:
-I am passionate about cybersecurity with a focus on practical applications such as Capture The Flag (CTF) challenges, bug bounty hunting, and security research. With expertise in bash scripting, Python, and frameworks like Flask and Django, I build and test secure web applications, and explore vulnerabilities in real-world scenarios.As a Linux power user, I thrive in open-source environments, leveraging my knowledge of computer networking and system security to conduct security audits and penetration testing. My goal is to continuously enhance my skillset and contribute to the cybersecurity community by sharing insights, tools, and methodologies.
-
-⚡ Fun fact: In the tech realm, my code's so witty, it's practically programming stand-up! 😄💻
+# 💫 👨‍💻 About Me:
+Just someone who loves figuring stuff out, learning cool things, and building whatever comes to mind. Always down to explore, break things (on purpose), and make something awesome out of it.
+⚡ **Fun fact: **In the tech realm, my code's so witty, it's practically programming stand-up! 😄💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mnx_flickshot) 
