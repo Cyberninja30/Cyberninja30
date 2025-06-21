@@ -1,5 +1,5 @@
 ### 👨‍💻 Coding Vibes:
-![Coding Cartoon](https://github.com/yourusername/yourrepo/blob/main/path/to/selected.gif)
+[Relaxed Programmer](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 # 💫 About Me:
 I am passionate about cybersecurity with a focus on practical applications such as Capture The Flag (CTF) challenges, bug bounty hunting, and security research. With expertise in bash scripting, Python, and frameworks like Flask and Django, I build and test secure web applications, and explore vulnerabilities in real-world scenarios.As a Linux power user, I thrive in open-source environments, leveraging my knowledge of computer networking and system security to conduct security audits and penetration testing. My goal is to continuously enhance my skillset and contribute to the cybersecurity community by sharing insights, tools, and methodologies.
