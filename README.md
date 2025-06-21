@@ -16,6 +16,7 @@ Just someone who loves figuring stuff out, learning cool things, and building wh
 ![](https://github-readme-stats.vercel.app/api?username=cyberninja30&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cyberninja30&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberninja30&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cyberninja30&theme=radical&no-frame=false&no-bg=false&margin-w=4)
