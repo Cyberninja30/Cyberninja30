@@ -1,7 +1,7 @@
 ![Coding](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966))
 
 # 💫 👨‍💻 About Me:
-Just someone who loves figuring stuff out, learning cool things, and building whatever comes to mind. Always down to explore, break things (on purpose), and make something awesome out of it. In the tech realm, my code's so witty, it's practically programming stand-up! 😄💻
+Just someone who loves to figure stuff out, learn new things, and build on crazy ideas. Always down to explore, break things (on purpose), and make something awesome out of it. In the tech realm, my code's so witty, it's practically programming stand-up! 😄💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mnx_flickshot) 
