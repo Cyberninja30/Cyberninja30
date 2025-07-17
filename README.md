@@ -1,6 +1,6 @@
 ![Coding](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966))
 
-[Welcome to my Profile](https://camo.githubusercontent.com/52d614972476740ba91d187d137559970b8bf8e1c9254f55827af54c82d6893d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3730383738303930313634323739373037362e676966) 
+![Welcome to my Profile](https://camo.githubusercontent.com/52d614972476740ba91d187d137559970b8bf8e1c9254f55827af54c82d6893d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3730383738303930313634323739373037362e676966) 
 
 # 💫 👨‍💻 Whoami:
 Just someone who loves to figure stuff out, learn new things, and build on crazy ideas. Always down to explore, break things (on purpose), and make something awesome out of it. In the tech realm, my code's so witty, it's practically programming stand-up! 😄💻
